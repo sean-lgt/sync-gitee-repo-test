@@ -1,0 +1,1 @@
+const testMsg = 'test github repo sync to gitee'
